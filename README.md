@@ -8,3 +8,17 @@ Note: there is some limit on the number of api call you could make to https://ap
 This is really a basic implementation, I kep it as simple as possible, more sophisticated feature implementation could be done by extending this simple version.
 
 email me anil.sambasivan@gmail.com for assitance
+
+Step to run the app
+
+You should have node latest stable version installed before running below steps
+
+#1
+
+npm install
+
+#2 
+
+npm start
+
+it will auto navigate to your default browser, if not use http://localhost:3000/
